@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.Python
+env/
+venv/
+ENV/
+.env
+*.egg-info/
+dist/
+build/
+
+# FastAPI
+*.log
+
+# Database
+*.sqlite3
+
+# Misc
+.DS_Store
+*.swp
